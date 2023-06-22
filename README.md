@@ -7,3 +7,5 @@ ID:
 Video Link:
 https://drive.google.com/file/d/1Mijp2paK8i-gYP6T-tBL-EhZozIIvPR5/view?usp=sharing 
 Code file: Assignment1.py
+Document : Assignment -ML.doc
+
